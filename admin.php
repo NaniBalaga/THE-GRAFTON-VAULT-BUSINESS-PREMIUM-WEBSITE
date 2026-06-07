@@ -8,8 +8,8 @@ session_start();
 // ==========================================
 
 // 1. Define Credentials
-$ADMIN_USER = "TGVADMIN";
-$ADMIN_PASS = "Ian@TGV";
+$ADMIN_USER = "";
+$ADMIN_PASS = "";
 
 // 2. Handle Logout
 if (isset($_GET['logout'])) {
